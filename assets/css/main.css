@@ -28,10 +28,12 @@
 
 .header__title{
     color: var(--ligth-color);
+    text-align:center;
 }
 
 .header__social-icons{
     color: var(--ligth-color);
+    margin-left: 55%;
 }
 
 .skills__column-left {
@@ -44,7 +46,37 @@
     color: var(--black-color);
 }
 
+.skills__title2{
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: var(--primary-color);
+
+}
+
 .skills__label {
     font-size: 0.8rem;
     color: var(--ligth-color);
 }
+
+.skills__description{
+    font-size: 0.7rem;
+    color: var(--primary-color);
+    
+}
+
+.skills__descriptionn{
+    font-size: 0.6rem;
+    color: var(--primary-color);
+}
+
+.skills__description2{
+    font-size: 0.5rem;
+    color: var(--primary-color);
+}
+
+img{
+    width: 25%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
